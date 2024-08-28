@@ -1,0 +1,42 @@
+header{
+    h1{
+        text-align: center;
+        text-decoration: underline; 
+        color: red; 
+    }
+    ul{
+        li{
+            text-align: right 
+        }
+    }
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body{
+
+        font-family: "Roboto", sans-serif;
+        background-color: silver;
+}
+.p1{
+    color: aqua;
+}
+#p1{
+    color: brown;
+}
+table{
+    border-collapse: collapse;
+}
+th{
+    border: 1px solid black;
+    padding: 10px;
+}
+td{
+    border: 1px solid black;
+    padding: 10px;
+}
+.impaire{
+    background-color: blue;
+}
+.paire{
+    background-color: blueviolet;
+}
